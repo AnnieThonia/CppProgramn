@@ -1,0 +1,6 @@
+Hello frgu, 
+
+	Customer ID: 4567
+	Units Consumed: 77
+	Total Amount Payable: 92.4
+Thank You.
